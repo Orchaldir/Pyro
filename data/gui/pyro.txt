@@ -1,0 +1,28 @@
+5
+MapViewer MapViewer
+  test
+  50 50
+  1000 1000
+  40 40
+InventoryList Inventory
+  Hero_0
+  1100 400
+  250 200
+  Arial 25
+  255 255 255
+EquipmentSlots Equipment
+  Hero_0
+  1100 150
+  250 200
+  Arial 25
+  255 255 255
+Label HP
+  1100 50
+  0 / 0
+  Ani 50
+  255 0 0
+Label Damage
+  1100 100
+  0
+  Ani 50
+  255 255 255

@@ -1,0 +1,24 @@
+5
+Label CellTypeName
+  1060 210
+  Name: Wall
+  Arial 30
+  255 255 255
+Label CellTypeSolid
+  1060 240
+  Solid: True
+  Arial 30
+  255 255 255
+MapViewer MapViewer
+  test
+  20 50
+  1000 1000
+  40 40
+TileViewer CellTypeImage
+  1060 50
+  150 150
+Label CellTypeOpague
+  1060 270
+  Opaque: False
+  Arial 30
+  255 255 255

@@ -1,0 +1,165 @@
+11
+Potion
+  2
+  Body 2
+    tile Potion
+    type Simple
+  Description
+    1
+    name Healing Potion
+Hero
+  6
+  Body 2
+    tile Hero
+    type Simple
+  Character
+    4
+    weapon_damage 2    
+    weapon_range 1
+    weapon_loudness 0.2
+    alignment good    
+  EquipmentSlots
+    3
+    Weapon
+    Head
+    Body
+  Health
+    2
+    health 30
+    corpse Corpse
+  Inventory 0
+  Perception
+    1
+    vision_radius 10
+Skeleton
+  5
+  Ai 1
+    behavior Skeleton
+  Body 2
+    tile Skeleton
+    type Simple
+  Character
+    4
+    weapon_damage 5    
+    weapon_range 1
+    weapon_loudness 0.5
+    alignment bad    
+  Health
+    2
+    health 10
+    corpse Bones
+  Perception
+    2
+    vision_radius 10
+    min_loudness 1.0
+Sword
+  4
+  Body 2
+    tile Sword
+    type Simple
+  Description
+    1
+    name Fine Longsword
+  Weapon
+    3
+    damage 10
+    range 2
+    loudness 0.4
+  Equipment
+    1
+    Weapon
+Guard
+  5
+  Ai 1
+    behavior Guard
+  Body 2
+    tile Guard
+    type Simple
+  Character
+    4
+    weapon_damage 5
+    weapon_range 1
+    weapon_loudness 0.5
+    alignment good    
+  Health
+    2
+    health 100
+    corpse Corpse
+  Perception
+    1
+    vision_radius 10
+Bones
+  2
+  Body 2
+    tile Bones
+    type Simple
+  Description
+    1
+    name Bones
+Corpse
+  2
+  Body 2
+    tile Grave
+    type Simple
+  Description
+    1
+    name Corpse of a Human
+Helm
+  4
+  Body 2
+    tile Helm
+    type Simple
+  Description
+    1
+    name Iron Helm
+  Armor
+    1
+    armor 1
+  Equipment
+    1
+    Head
+Armor
+  4
+  Body 2
+    tile Armor
+    type Simple
+  Description
+    1
+    name Iron Armor
+  Armor
+    1
+    armor 3
+  Equipment
+    1
+    Body
+Dragon
+  5
+  Ai 1
+    behavior Skeleton
+  Body 3
+    size 4
+    tile Dragon
+    type Big
+  Character
+    4
+    weapon_damage 10
+    weapon_range 2
+    weapon_loudness 1.0
+    alignment angry    
+  Health
+    1
+    health 1000
+  Perception
+    1
+    vision_radius 15
+Potion
+  3
+  Body 2
+    tile Potion
+    type Simple
+  Description
+    1
+    name Healing Potion
+  Consumable
+    1
+    heal 10

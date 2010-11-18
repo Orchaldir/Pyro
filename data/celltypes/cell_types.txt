@@ -1,0 +1,8 @@
+7
+Floor False False Grass
+Water True False Water
+Wall True False Stone
+Sand False False Sand
+Snow False False Snow
+Lava False False Lava
+Wood False False Brown

@@ -1,0 +1,7 @@
+Requirements:
+  python
+  pygame
+
+Run:
+  cd src
+  python Pyro.py

@@ -1,0 +1,17 @@
+2
+Skeleton
+  Attack
+    0.8
+Guard
+  Selector
+    3
+    Attack
+      0.8
+    Investigate
+      0.7
+    Patrol
+      0.5
+      2
+        20 21
+        20 11
+    

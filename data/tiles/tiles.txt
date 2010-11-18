@@ -1,0 +1,18 @@
+17
+I Stone wall.png
+C Water 0 0 255 255
+I Grass grass.png
+C Sand 255 255 0 255
+C Snow 255 255 255 255
+C Lava 255 0 0 255
+C Brown 152 118 84 255
+I Dragon dragon.png
+I Potion potion.png
+I Hero hero.png
+I Sword sword.png
+I Skeleton skeleton.png
+I Guard guard.png
+I Bones bones.png
+I Grave grave.png
+I Helm helm.png
+I Armor armor.png
